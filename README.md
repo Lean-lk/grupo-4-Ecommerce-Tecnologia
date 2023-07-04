@@ -1,1 +1,2 @@
-holaaa
+### TIENDA: DigitalTech
+¡Bienvenido/a a DigitalTech, una tienda en línea de productos tecnológicos! Aquí encontrarás una amplia selección de los últimos dispositivos electrónicos, gadgets innovadores y accesorios de alta calidad para satisfacer tus necesidades tecnológicas.

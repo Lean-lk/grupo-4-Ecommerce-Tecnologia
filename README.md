@@ -15,3 +15,4 @@ Integrantes del equipo:
  Franco Sanchez
  Gabriel Mullicundo
  Lucas Miranda
+ Zoe Damaris Amador

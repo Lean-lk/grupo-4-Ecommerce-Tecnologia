@@ -16,3 +16,4 @@ Integrantes del equipo:
  Gabriel Mullicundo
  Lucas Miranda
  Zoe Damaris Amador
+ Rocio Cruz

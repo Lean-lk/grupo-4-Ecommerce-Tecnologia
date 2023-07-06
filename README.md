@@ -17,3 +17,4 @@ Integrantes del equipo:
  Lucas Miranda
  Zoe Damaris Amador
  Rocio Cruz
+ Maria Vedia
